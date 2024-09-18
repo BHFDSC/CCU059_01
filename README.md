@@ -1,16 +1,18 @@
-# Project name
-Combinations of multiple long-term conditions and risk of hospitalisation and death during the winter season: population-based cohort study of 48 million people in England 
+# Combinations of multiple long-term conditions and risk of hospitalisation or death during winter 2021-22: population-based cohort study of 48 million people in England
+
+**Nazrul Islam, Sharmin Shabnam, Nusrat Khan, Clare Gillies, Francesco Zaccardi, Amitava Banerjee, Vahé Nafilyan, Kamlesh Khunti, Hajira Dambha-Miller, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
+
 ## Project description
 
-Description will be added here.
+The annual winter season poses substantial challenges to the National Health Service (NHS) in England. Hospitalisation and mortality increase during winter, especially in people with multiple long-term conditions (MLTC or multimorbidity). We aimed to describe which combinations of long-term conditions (LTC) are associated with a higher risk of hospitalisation or death during winter 2021-22 (the third wave of the COVID-19 pandemic) amongst adults in England.
 
 ## How to cite this work
 > Citation details to follow
 
 ## Contents
 
-* [View the analysis code used in NHS England's TRE for England](https://github.com/BHFDSC/CCU059_01/tree/main/code)
-* [View the phenotyping algorithms and codelists used in NHS England's TRE for England](https://github.com/BHFDSC/CCU059_01/tree/main/phenotypes)
+* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU059_01/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU059_01/tree/main/phenotypes)
 
 ## Project approval
 
