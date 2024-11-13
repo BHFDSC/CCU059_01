@@ -1,4 +1,4 @@
-# Combinations of multiple long-term conditions and risk of hospitalisation or death during winter 2021-22: population-based cohort study of 48 million people in England
+# Combinations of multiple long term conditions and risk of hospital admission or death during winter 2021-22 in England: population based cohort study
 
 **Nazrul Islam, Sharmin Shabnam, Nusrat Khan, Clare Gillies, Francesco Zaccardi, Amitava Banerjee, Vahé Nafilyan, Kamlesh Khunti, Hajira Dambha-Miller, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
 
@@ -7,7 +7,7 @@
 The annual winter season poses substantial challenges to the National Health Service (NHS) in England. Hospitalisation and mortality increase during winter, especially in people with multiple long-term conditions (MLTC or multimorbidity). We aimed to describe which combinations of long-term conditions (LTC) are associated with a higher risk of hospitalisation or death during winter 2021-22 (the third wave of the COVID-19 pandemic) amongst adults in England.
 
 ## How to cite this work
-> Citation details to follow
+Islam N, Shabnam S, Khan N, et al. Combinations of multiple long term conditions and risk of hospital admission or death during winter 2021-22 in England: population based cohort study: BMJ Medicine 2024;3:e001016. https://doi.org/10.1136/bmjmed-2024-001016
 
 ## Contents
 
